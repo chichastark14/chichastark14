@@ -3,25 +3,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle;">
 </h1>
 
-
-
-<!-- English version -->
+<!-- English and Spanish version, synchronized -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?lines=Physics%20and%20Data%20Science%20Student;Passionate%20about%20Artificial%20Intelligence;Always%20learning%20new%20technologies&center=true&width=600&height=45" 
+      src="https://readme-typing-svg.herokuapp.com?lines=Physics%20and%20Data%20Science%20Student;%20Estudiante%20de%20F%C3%ADsica%20y%20Ciencia%20de%20Datos;%20Passionate%20about%20Artificial%20Intelligence;%20Apasionado%20por%20la%20Inteligencia%20Artificial;%20Always%20learning%20new%20technologies;%20Siempre%20aprendiendo%20nuevas%20tecnolog%C3%ADas&center=true&width=600&height=45&speed=50" 
       alt="Typing SVG">
   </a>
 </p>
 
-<!-- Spanish version -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?lines=Estudiante%20de%20F%C3%ADsica%20y%20Ciencia%20de%20Datos;Apasionado%20por%20la%20Inteligencia%20Artificial;Siempre%20aprendiendo%20nuevas%20tecnolog%C3%ADas&center=true&width=600&height=45" 
-      alt="Typing SVG">
-  </a>
-</p>
+
 
 <h2>📖 | About me | Sobre mí</h2>
 
